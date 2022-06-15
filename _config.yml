@@ -2,7 +2,7 @@ title: Hello, I'm Nadaa
 description: > # this means to ignore newlines until "baseurl:"
   Hello, my name is Nadaa Shabrina. I am a student at UIN SUSKA Riau. I am interested in many things! 
 permalink: ':title/'
-baseurl: "/nadasabs-blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nadasabs/nadasabs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: https://twitter.com/nadasabs #if your site has a twitter account, enter it here
 
