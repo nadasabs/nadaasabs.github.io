@@ -7,7 +7,7 @@ img: languages-signpost.jpg # Add image post (optional)
 tags: [Linguistic, Polyglots] # add tag
 ---
 
-I didn’t study linguistics. I studied science technology, but language-learning is my passion. I've been studying English, Korean, Arabic and Chinese by my own for years. The language-learning process will depend on your personal learning style. However, there’s still some methods that work for me.
+I don’t study linguistics. I study science technology, but language-learning is my passion. I've been studying English, Korean, Arabic and Chinese by my own for years. The language-learning process will depend on your personal learning style. However, there’s still some methods that work for me.
 
 ## The method I follow to learn languages
 <b> Study phonetics for about 1 month  In the very beginning, </b> I spend about a month practicing the sounds of the language and learning how to read it. It's crucial that you learn correct pronunciation, so that people can understand you. Learn the International Phonetic Alphabet and use recordings from a book (or online) to learn all the sounds (vowels, consonants, special sounds, etc.).
