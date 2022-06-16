@@ -10,7 +10,7 @@ tags: [Productivity, Healthy] # add tag
 
 Since lockdown has begun, workout is something that I'm interested to do. I've been doing it for almost 9 months and losing around 7 kg in weight. Here are some steps that I do to start a workout routine
 
-###  Step 1: Follow this SMART tips
+###  Step 1: Follow this SMART goals
 <b>1. Make It S: Specific</b>
 In order for a goal to be effective, it needs to be specific.
 
@@ -77,7 +77,6 @@ Don’t make your schedule too rigid. Life is unpredictable and not every little
 Whether your goal is to get in shape, build muscle or anything related to staying fit, as a beginner following are the 3 basic things everybody should focus on:
 
 1. Cardio: This includes any exercise that gets your heart rate up from walking to cycling. Following are a few easy ones:
-
 * Burpees
 * Squat jumps
 * Jump ropes
